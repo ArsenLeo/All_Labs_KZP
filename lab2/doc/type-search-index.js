@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"KI305.Levkulych.Lab2","l":"AudioSystem"},{"p":"KI305.Levkulych.Lab2","l":"Screen"},{"p":"KI305.Levkulych.Lab2","l":"SmartSystem"},{"p":"KI305.Levkulych.Lab2","l":"Television"},{"p":"KI305.Levkulych.Lab2","l":"TelevisionDriver"}];updateSearchResults();
