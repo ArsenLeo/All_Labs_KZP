@@ -1,8 +1,8 @@
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Scanner;
 import java.util.InputMismatchException;
+import java.util.Scanner;
 
 /**
  * Клас Lab1ПрізвищеГрупа
@@ -25,7 +25,7 @@ import java.util.InputMismatchException;
  */
 public class Lab1LevkulychKI305 {
 
-    /** Імʼя файлу для збереження результату */
+    /**Імʼя файлу для збереження результату */
     private static final String OUTPUT_FILE = "output.txt";
 
     /**
